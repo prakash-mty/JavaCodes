@@ -19,4 +19,8 @@ The goal of this repository is to practice Java programming regularly and streng
 
 ## Author
 
-Jyoti Prakash
+# Jyoti Prakash
+
+# JavaCodes
+
+A collection of Java programs created for practicing core Java concepts.
