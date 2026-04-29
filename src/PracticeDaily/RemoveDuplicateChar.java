@@ -8,6 +8,7 @@ public class RemoveDuplicateChar {
     String str = scn.nextLine().toLowerCase();
     StringBuilder filtered = findDuplicate(str);
     System.out.println(filtered);
+    scn.close();
     }
     public static StringBuilder findDuplicate(String stx)
     {

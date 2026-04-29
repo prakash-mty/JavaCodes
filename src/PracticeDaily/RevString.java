@@ -14,5 +14,6 @@ public class RevString {
             rev = rev + str.charAt(i);
         }
         System.out.print(rev);
+        scn.close();
     }
 }
